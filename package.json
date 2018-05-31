@@ -1,0 +1,10 @@
+{
+  "name": "stackimpact-debug",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Tomotaka Sakuma",
+  "license": "MIT",
+  "dependencies": {
+    "stackimpact": "^1.3.1"
+  }
+}
